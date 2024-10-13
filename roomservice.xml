@@ -6,6 +6,5 @@
   <project name="TheMuppets/proprietary_vendor_samsung_a71" path="vendor/samsung/a71" remote="github" revision="lineage-21" />
   <project name="TheMuppets/proprietary_vendor_samsung_a71-common" path="vendor/samsung/a71-common" remote="github" revision="lineage-21" />
   <project name="legofanlovessayori/android_hardware_samsung" path="hardware/samsung" remote="github" revision="pixelos-14" />
-  <project name="TogoFire/packages_apps_ViPER4AndroidFX" path="packages/apps/ViPER4AndroidFX" remote="github" revision="v4a" />
 </manifest>
 
