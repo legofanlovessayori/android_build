@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remote name="github" fetch="https://github.com" />
   <project name="legofanlovessayori/android_device_samsung_a71" path="device/samsung/a71" remote="github" revision="aosp-15" />
   <project name="legofanlovessayori/android_device_samsung_a71-common" path="device/samsung/a71-common" remote="github" revision="aosp-15" />
   <project name="LineageOS/android_kernel_samsung_a71" path="kernel/samsung/a71" remote="github" revision="lineage-22.0" />
