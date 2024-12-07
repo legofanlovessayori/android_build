@@ -50,7 +50,7 @@ Just whatever I use to build Android for my phones with.
    ```bash
    git config --global user.name [your user]
    git config --global user.email [your email]
-   repo init -u https://github.com/PixelOS-AOSP/manifest.git -b fourteen --git-lfs
+   repo init -u https://github.com/PixelOS-Fifteen/manifest.git -b fifteen --git-lfs
    ```
 
 3. Create the `local_manifests` folder in the `.repo` directory and place the `roomservice.xml` in it:
