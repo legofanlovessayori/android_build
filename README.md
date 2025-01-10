@@ -57,7 +57,7 @@ Just whatever I use to build Android for my phones with.
 
    ```bash
    cd .repo
-   git clone https://github.com/legofanlovessayori/android_build.git local_manifests
+   git clone https://github.com/legofanlovessayori/android_build.git -b main-15 local_manifests
    ```
 
 4. Initiate the source download:
