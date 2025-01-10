@@ -7,5 +7,6 @@
   <project name="TheMuppets/proprietary_vendor_samsung_a71" path="vendor/samsung/a71" remote="github" revision="lineage-22.0" />
   <project name="TheMuppets/proprietary_vendor_samsung_a71-common" path="vendor/samsung/a71-common" remote="github" revision="lineage-22.0" />
   <project name="legofanlovessayori/android_hardware_samsung" path="hardware/samsung" remote="github" revision="aosp-15" />
+  <project name="legofanlovessayori/vendor_extra" path="vendor/extra" remote="github" revision="aosp-15" />
 </manifest>
 
